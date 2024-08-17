@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    font-family: "Instrument Serif", serif;
+    color: #ff0;
+    background-color: lightcoral;
+    background-image: url(./images/background.gif);
+}
+
+#btn{
+    border-radius: 20px;
+    background-color: burlywood;
+    color: black;
+    height: 50px;
+    width: 80px;
+    border: 1px grey solid;
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#name{
+    height: 30px;
+    width: 300px;
+    border: 2px blue solid;
+    margin-top: 20px;
+}
+
+#dis{
+    color: black;
+    text-align: center;
+    margin-left: 10%;
+    width: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#dis p{
+    margin-top: 10px;
+}
